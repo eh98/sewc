@@ -23,5 +23,4 @@
 오프라인 매장에 대한 정보 - 여러 오프라인 매장 위치를 알려주고, 각 매장에 제품이 얼마나 남았는가 와 어디에 있는지 제품의 위치를 알려준다. 
 
 ## 7주차 과제
-<img width="" height="" src="./PNG/dog.PNG"></img>
-<img width="" height="" src="./PNG/cat.PNG"></img>
+
